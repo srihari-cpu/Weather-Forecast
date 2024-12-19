@@ -1,4 +1,4 @@
-WeatherForecast Java Program
+<h1>WeatherForecast Java Program</h1>
 
 This is a simple Java program that simulates weather forecasting by generating random weather conditions from a predefined list.
 The program randomly selects one weather condition from a list and returns it as a forecast.
